@@ -9,7 +9,7 @@ Animal adoption rates are strongly correlated to the metadata associated with th
 text and photo characteristics. As one example, PetFinder is currently experimenting with a simple AI tool called 
 the Cuteness Meter, which ranks how cute a pet is based on qualities present in their photos.
 
-#My score:
+# My score:
 this project was my participation in the kaggle challenge. I was in top 1%. 
 
 # Dataset:
