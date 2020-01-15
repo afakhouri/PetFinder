@@ -10,7 +10,7 @@ text and photo characteristics. As one example, PetFinder is currently experimen
 the Cuteness Meter, which ranks how cute a pet is based on qualities present in their photos.
 
 # My score:
-this project was my participation in the kaggle challenge. I was in top 1%. 
+this project was my participation in the kaggle challenge. I ranked among the top 1%.
 
 # Dataset:
 Dataset can be upload from: https://www.kaggle.com/c/petfinder-adoption-prediction/data
